@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SOSMap</string>
+    <string name="app_name_tipo">Tipo Incidencia</string>
+    <string name="app_name_Alerta">Alerta</string>
+    <string name="app_name_Menu">Menu Alerta</string>
+
+
+    <string name="alertatext">Ante una emergencia precione el boton  de Alerta</string>
+    <string name="alertabusqueda">Inicie su busqueda en Mapa del Delito utilizando cualquier
+                                  de los mètodos a continuaciòn  </string>
+
+    <string name="Cerca">Cerca de la Localidad</string>
+    <string name="Puesto">Cerca a un puesto Policial</string>
+
+</resources>

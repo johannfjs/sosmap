@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="Region">
+    <item>Lima</item>
+    <item>Trujillo</item>
+    <item>Chiclayo</item>
+    <item>Arequipa</item>
+    <item>Iquitos</item>
+    <item>Piura</item>
+    <item>Huancayo</item>
+</string-array>
+<string-array name="Puesto">
+
+    <item>Comisaria Miraflores</item>
+    <item>Comisaria Surco</item>
+</string-array>
+    
+</resources>
